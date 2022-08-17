@@ -1,7 +1,5 @@
 package com.company.inventory.models.response;
 
-import com.company.inventory.models.Category;
-
 import lombok.Getter;
 import lombok.Setter;
 
